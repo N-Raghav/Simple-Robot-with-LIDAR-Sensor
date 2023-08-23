@@ -1,6 +1,6 @@
 # Simple Robot with LIDAR Sensor
 
-![Robot Image](link_to_your_robot_image_here.jpg)
+![Robot Image](thumbnail.png)
 
 ## Overview
 
